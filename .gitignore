@@ -1,0 +1,9 @@
+/.idea
+/.vscode
+.DS_Store
+/cmake-build-debug/
+/data/
+/network
+/credentials.txt
+/test_predictions.csv
+/train_predictions.csv
